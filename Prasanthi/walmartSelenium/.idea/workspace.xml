@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fe0e5b1-346c-40a4-9bb4-04d7967a6b86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZScwWFvS0atbVtOC9pUJhJ6Z88" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunManager" selected="TestNG.walmartApp">
+    <configuration name="ArrayStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayStrings" />
+      <module name="walmartSelenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Amazon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="walmartSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Amazon" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparePrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="walmartSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ComparePrice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="walmartApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="walmartSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="walmartApp" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="walmartApp.searchProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="walmartSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="walmartApp" />
+      <option name="METHOD_NAME" value="searchProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.walmartApp" />
+        <item itemvalue="Application.ArrayStrings" />
+        <item itemvalue="TestNG.ComparePrice" />
+        <item itemvalue="TestNG.Amazon" />
+        <item itemvalue="TestNG.walmartApp.searchProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe0e5b1-346c-40a4-9bb4-04d7967a6b86" name="Default Changelist" comment="" />
+      <created>1584836174491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584836174491</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1214" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585063951498">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="123" width="1214" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.830@0.23.1440.830" timestamp="1585063951498" />
+    <state width="1372" height="306" key="GridCell.Tab.0.bottom" timestamp="1585114536923">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1372" height="306" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585114536923" />
+    <state width="1107" height="386" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1584999659752" />
+    <state width="1107" height="386" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1584934461047" />
+    <state width="1107" height="386" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584934518469" />
+    <state width="1107" height="386" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1584934774359" />
+    <state width="1372" height="306" key="GridCell.Tab.0.center" timestamp="1585114536918">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1372" height="306" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1585114536918" />
+    <state width="1107" height="386" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1584999659750" />
+    <state width="1107" height="386" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1584934461046" />
+    <state width="1107" height="386" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1584934518467" />
+    <state width="1107" height="386" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1584934774358" />
+    <state width="1372" height="306" key="GridCell.Tab.0.left" timestamp="1585114536917">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1372" height="306" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1585114536917" />
+    <state width="1107" height="386" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1584999659750" />
+    <state width="1107" height="386" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1584934461045" />
+    <state width="1107" height="386" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1584934518466" />
+    <state width="1107" height="386" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1584934774357" />
+    <state width="1372" height="306" key="GridCell.Tab.0.right" timestamp="1585114536921">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1372" height="306" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1585114536921" />
+    <state width="1107" height="386" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1584999659751" />
+    <state width="1107" height="386" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1584934461046" />
+    <state width="1107" height="386" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1584934518468" />
+    <state width="1107" height="386" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1584934774358" />
+    <state x="221" y="23" width="1024" height="830" key="SettingsEditor" timestamp="1585110354112">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="221" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1585110354112" />
+    <state x="410" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1585081537957">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="410" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1585081537957" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/walmartSelenium$walmartApp.ic" NAME="walmartApp Coverage Results" MODIFIED="1585009218124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
